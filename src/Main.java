@@ -50,8 +50,8 @@ public class Main {
         System.out.println("Разница между массами бойцов = " + (secondBoxerMass - firstBoxerMass));
 
         // Задача 7
-        var mass1 = 98.7;
-        var mass2 = 75.9;
+        var mass1 = 100;
+        var mass2 = 80;
         var remainder = mass1 % mass2;
         System.out.println(remainder);
 
